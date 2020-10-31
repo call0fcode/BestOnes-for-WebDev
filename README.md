@@ -1,5 +1,6 @@
 # The Best Ones for Web Development
 This is a collection of resources that I personally find the absolutely "best ones" for learning web development.
+I've used them to learn how to code and, therefore, I can recommend them from my own experience.
 
 ## JavaScript
 - [JavaScript.info](https://javascript.info/) - absolutely everything you need to learn about vanilla JavaScript
