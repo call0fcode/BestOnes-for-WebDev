@@ -13,3 +13,5 @@ I've used them to learn how to code and, therefore, I can recommend them from my
   - Installing and using Node.js in the console.
   - Understanding, instaling and using [npm](https://www.npmjs.com/), the Node.js package manager.
   - Understanding async programming, making HTTP requests, working with files (file stats, paths, reading and writing files, etc.).
+  
+- [The Art of Node](https://github.com/maxogden/art-of-node) - a brief introduction to Node.js (requires some prior knowledge of JavaScript)
